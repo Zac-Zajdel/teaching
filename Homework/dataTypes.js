@@ -9,7 +9,10 @@
  * 6. Undefined
  * 7. Object
  *
- * Bonus: Verify using the typeof operator that a value of type string is indeed of type string
+ * Bonus:
+ * - Verify using the typeof operator that a value of type string is indeed of type string
+ * - Change a variable called age that is set to 21 to a string of '21'. What happened?
+ *
  */
 
 // 1:
