@@ -8,7 +8,9 @@
  */
 
 // 1:
-
+const actor = "rileyreid"
+const actor2 = "danidaniels"
+const isAdmin = true
 // 2:
 
 // 3:
