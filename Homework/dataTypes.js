@@ -16,17 +16,26 @@
  */
 
 // 1:
-
+let movies = "The Aviator"
 // 2:
-
+const isTheEarthFlat = false
+const isJesseBadAtCoding = true
 // 3:
-
+let x = 74
+let y = x - 5
+console.log(y)
 // 4:
-
+let number = 1234567
+// let number2 = new BigInt(987654)
 // 5:
-
+const data = null
 // 6:
-
+let cat;
+cat = undefined
 // 7:
-
+const Jesse = {lastname: "Veronie", age: "26", eyecolor: "Hazel"}
 // Bonus
+console.log(typeof Jesse)
+let age = 26
+age = "26"
+console.log(age)
