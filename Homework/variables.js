@@ -8,11 +8,24 @@
  */
 
 // 1:
-const actor = "rileyreid"
-const actor2 = "danidaniels"
+const actor = "riley reid" + "madison ivy"
+const actor2 = "dani daniels"
 const isAdmin = true
+const movies = "the wolf of wallstreet"
+const tvshows = "the hard times of rj berger"
 // 2:
+let artist = [
+    "John Mayer", 
+    "Michael Jackson",
+    "Harry Styles"
+]
+let isAuthorized = true
+let notAuthorized = false
 
 // 3:
 
 // Bonus:
+var x = 200
+var y = x - 27
+console.log(y);
+
